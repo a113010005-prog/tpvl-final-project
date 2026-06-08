@@ -2,8 +2,7 @@
 
 **姓名**：林佳妤
 **主題**：TPVL元年賽曆衝突事件報導
-**發布網址**：[https://cocorico.info/blog/2026/06/08/tpvl-schedule-conflict-volleyball/](https://cocorico.info/blog/2026/06/08/tpvl-schedule-conflict-volleyball/)（已發布）
-
+**發布網址**：[https://cocorico.info/blog/2026/06/08/tpvl-schedule-conflict-volleyball/]
 ---
 
 ## 一、為什麼選這個主題
@@ -66,7 +65,7 @@ flowchart TD
 用 Kiro 分析兩則聲明，找出聯盟承認的、說得模糊的、完全沒回答的三個層次，作為報導的批判性觀點來源。
 
 **步驟四：數據查核**
-從台中連莊（winstreak-volleyball.com）及台鋼天鷹（skyhawks-volleyball.com）官網抓取本季球員數據，用具體數字說明缺陣的戰力損失。
+根據 ChatGPT 建議，從台中連莊（winstreak-volleyball.com）及台鋼天鷹（skyhawks-volleyball.com）官網抓取本季球員數據，用具體數字說明缺陣的戰力損失。
 
 **步驟五：撰寫報導**
 依照新聞深度報導架構撰寫，包含：事件還原、背景說明、數據對比、聲明分析、結論與展望，共約900字。
