@@ -19,7 +19,8 @@ graph LR
     C --> D[撰寫報導]
     D --> E[發布至WordPress並設定SEO]
     E --> F[改寫社群版本]
-    F --> G[發布至Instagram]
+    F --> G[製作與生成IG圖]
+    G --> H[發布至Instagram]
 ```
 
 ---
