@@ -50,7 +50,8 @@ flowchart TD
     N --> M
     M -->|全黃以上| O[正式發布]
     O --> P[改寫社群版本：FB / X / IG]
-    P --> Q[發布至 Instagram]
+    P --> Q[生成IG圖]
+    Q --> R[發布至 Instagram]
 ```
 
 ---
