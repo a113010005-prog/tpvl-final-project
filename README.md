@@ -88,5 +88,6 @@ flowchart TD
 ## 六、成果
 
 - 報導發布於 cocorico.info
+- Instagram 發布：https://www.instagram.com/p/DZWKbZfSMII/
 - SEO 分析：尚可；可讀性分析：良好
 - 資料來源透明，附有外部連結至官方聲明及數據頁面
