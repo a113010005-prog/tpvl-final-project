@@ -49,6 +49,8 @@ flowchart TD
     M -->|紅燈| N[修改關鍵字、標題、Meta Description]
     N --> M
     M -->|全黃以上| O[正式發布]
+    O --> P[改寫社群版本：FB / X / IG]
+    P --> Q[發布至 Instagram]
 ```
 
 ---
@@ -72,6 +74,9 @@ flowchart TD
 
 **步驟六：發布與 SEO 設定**
 將報導轉換為 HTML 格式，透過 WordPress 程式碼編輯器貼入，並設定 Yoast SEO 的焦點關鍵字、SEO 標題、Slug、Meta Description，調整至燈號達標後正式發布。
+
+**步驟七：社群媒體發布**
+將報導改寫為三個社群版本（Facebook、X/Twitter、Instagram），調整篇幅與口氣，並發布至 Instagram。
 
 ---
 
